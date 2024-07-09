@@ -1,8 +1,10 @@
-# React + Vite
+# Project README
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Oasis Infobyte Internship Work
 
-Currently, two official plugins are available:
+During my internship at Oasis Infobyte, I was involved in an online exam project. Here is a link to my LinkedIn post discussing this project:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [LinkedIn Post about the online exam project](https://www.linkedin.com/posts/pabitra-bera_oasisinfobyte-onlineexam-oasisinfobyte-activity-7215177027014787072-YQ8c?utm_source=share&utm_medium=member_desktop)
+
+Feel free to explore this link for more details about my role and contributions to the project.
+
