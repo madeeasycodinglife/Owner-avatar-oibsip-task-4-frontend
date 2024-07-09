@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-gradient-shadow {
+  background: linear-gradient(to right, #f70757, #7205e7, #cf0a0a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 2px 2px 4px rgba(17, 13, 13, 0.738);
+}
+.text-gradient {
+  background: linear-gradient(to right, #1e3a8a, #3b82f6, #60a5fa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.text-gradient-red {
+  background: linear-gradient(to right, #1e3a8a, #e509d6, #fe0404);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-shadow-pink {
+  background: linear-gradient(to right, #2c1e23, #ef04c8, #d39504);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 2px 2px 4px rgba(17, 13, 13, 0.738);
+}
+
+/* styles.css */
+.text-gradient-exam {
+  background: linear-gradient(to right, #6516ee, #852171);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gradient-shadow-purple {
+  background: linear-gradient(to right, #06f5a9, #ef04c8, #1cd304);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 2px 2px 4px rgba(17, 13, 13, 0.738);
+}
+
+.bg-gradient-exam {
+  background: linear-gradient(to right, #3dbad0, #217285);
+}
+
+.error-text {
+  background: linear-gradient(45deg, #3f0443, #862557, #650b54);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
